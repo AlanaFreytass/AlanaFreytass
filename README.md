@@ -10,6 +10,6 @@
     media="(prefers-color-scheme: tokyonight)"" />
 </a>
 <a href="https://github.com/alanafreytass/convoychat">
-  <img height=1300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanafreytass&layout=compact&langs_count=8&card_width=320show_icons=true&theme=tokyonight"
+  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanafreytass&layout=compact&langs_count=8&card_width=320show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: tokyonight)" />
 </a>
