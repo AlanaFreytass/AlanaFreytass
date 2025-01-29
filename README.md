@@ -6,10 +6,10 @@
 -->
   
 <a href="https://github.com/alanafreytass/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=alanafreytass&show_icons=true&theme=tokyonight"
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=alanafreytass&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: tokyonight)"" />
 </a>
 <a href="https://github.com/alanafreytass/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanafreytass&layout=compact&langs_count=8&card_width=320show_icons=true&theme=tokyonight"
+  <img height=1300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanafreytass&layout=compact&langs_count=8&card_width=320show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: tokyonight)" />
 </a>
