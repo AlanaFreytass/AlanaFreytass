@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu trabalho com Qualidade de software
 - 😄 Pronouns: Ela/Dela
-- 🌱Estudando Js, CTFL
+- 🌱Estudando Js, CTFL  com desenvolvimento em java e sql na facul
 -->
   
 <a href="https://github.com/alanafreytass/github-readme-stats">
