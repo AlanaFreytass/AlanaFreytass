@@ -34,7 +34,7 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=alanafreytass&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/alanafreytass/">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanafreytass&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanafreytass&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
 
 ---
