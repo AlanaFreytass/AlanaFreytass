@@ -12,7 +12,7 @@
 - 📌 Experiência com **Jira**, **Postman**, **Cypress**, **trello**,**Redmine** e **Docker**
 - 🛢️ Familiaridade com **banco de dados SQL**
 - 🎓 Estudando **JavaScript**, me preparando para a certificação **CTFL**,
-- 🏅 Formada em **Sistemas de Informação**
+- 🏅 Bacharel em **Sistemas de Informação**
 
 ---
 
