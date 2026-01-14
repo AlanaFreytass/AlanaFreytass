@@ -11,7 +11,8 @@
 - 🔍 Atualmente trabalho com **testes manuais e automatizados**
 - 📌 Experiência com **Jira**, **Postman**, **Cypress**, **trello**,**Redmine** e **Docker**
 - 🛢️ Familiaridade com **banco de dados SQL**
-- 🎓 Estudando **JavaScript**, me preparando para a certificação **CTFL**, formada em **Sistemas de Informação**
+- 🎓 Estudando **JavaScript**, me preparando para a certificação **CTFL**,
+- 🏅 Formada em **Sistemas de Informação**
 
 ---
 
